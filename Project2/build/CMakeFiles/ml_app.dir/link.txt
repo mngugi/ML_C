@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/ml_app.dir/link.d CMakeFiles/ml_app.dir/main.c.o CMakeFiles/ml_app.dir/ml_utils.c.o -o ml_app
